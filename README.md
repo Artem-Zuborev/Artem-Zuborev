@@ -77,7 +77,17 @@
 
 <br>
 
+### My projects:
+[⚡ Snow ](https://artem-zuborev.github.io/)
+[⚡ Gllacy Shop](https://artem-zuborev.github.io/test.github.io/)
+[⚡ Organic Food](https://artem-zuborev.github.io/artem-zuborev1.github.io/)
+[⚡ Shelter](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/shelter/pages/main/)
+[⚡ Momentum](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/Momentum/)
+[⚡ Virtual Keyboard](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/Virtual%20Keyboard/)
+[⚡ Calculator](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/calculator/)
 
+
+---
 
 <p align="center">
 <img  alt="GIF"  src="https://github.com/Artem-Zuborev/Artem-Zuborev/blob/master/assets/39Cg.gif?raw=true" width="800" height="520" />
