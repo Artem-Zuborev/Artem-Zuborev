@@ -78,13 +78,13 @@
 <br>
 
 ### My projects:
-[⚡ Snow ](https://artem-zuborev.github.io/)<br>
-[⚡ Gllacy Shop](https://artem-zuborev.github.io/test.github.io/)<br>
-[⚡ Organic Food](https://artem-zuborev.github.io/artem-zuborev1.github.io/)<br>
-[⚡ Shelter](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/shelter/pages/main/)<br>
-[⚡ Momentum](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/Momentum/)<br>
-[⚡ Virtual Keyboard](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/Virtual%20Keyboard/)<br>
-[⚡ Calculator](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/calculator/)<br>
+⚡ [Snow ](https://artem-zuborev.github.io/)<br>
+⚡ [Gllacy Shop](https://artem-zuborev.github.io/test.github.io/)<br>
+⚡ [Organic Food](https://artem-zuborev.github.io/artem-zuborev1.github.io/)<br>
+⚡ [Shelter](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/shelter/pages/main/)<br>
+⚡ [Momentum](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/Momentum/)<br>
+⚡ [Virtual Keyboard](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/Virtual%20Keyboard/)<br>
+⚡ [Calculator](https://rolling-scopes-school.github.io/artem-zuborev-JS2020Q3/calculator/)<br>
 
 
 ---
