@@ -78,6 +78,7 @@
 <br>
 
 ### My projects:
+⚡ [Pokemons ](https://artem-zuborev.github.io/pokemons/)<br>
 ⚡ [Snow ](https://artem-zuborev.github.io/)<br>
 ⚡ [Gllacy Shop](https://artem-zuborev.github.io/test.github.io/)<br>
 ⚡ [Organic Food](https://artem-zuborev.github.io/artem-zuborev1.github.io/)<br>
